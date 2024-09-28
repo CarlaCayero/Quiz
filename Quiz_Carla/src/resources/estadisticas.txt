@@ -1,0 +1,15 @@
+Nombre de usuario: carla
+Fecha y hora de finalización: 21/04/2024 19:22:39
+Respuestas correctas: 2
+Respuestas incorrectas: 3
+
+Nombre de usuario: haitham
+Fecha y hora de finalización: 21/04/2024 19:28:52
+Respuestas correctas: 9
+Respuestas incorrectas: 11
+
+Nombre de usuario: cuco
+Fecha y hora de finalización: 21/04/2024 19:29:56
+Respuestas correctas: 10
+Respuestas incorrectas: 10
+
